@@ -1,2 +1,2 @@
-# Project-12
-This project is about a to-do list using javascript. In this project, I used local storage to save data.
+# Taskmaster
+TaskMaster is a sleek and efficient to-do list application built with JavaScript. It leverages the browser's local storage to persistently save tasks, ensuring your to-do items are always at your fingertips, even after closing the browser.
